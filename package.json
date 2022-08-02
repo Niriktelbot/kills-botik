@@ -1,0 +1,6 @@
+telegram-bot-api==0.58.0
+qiwi-api==2.2.1
+mongoose==6.5.0
+Wallet==2.1.503
+sharp==0.30.7
+
